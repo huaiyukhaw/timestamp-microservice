@@ -1,6 +1,8 @@
 
 # API Project: Timestamp Microservice for FCC
 
+### Installation
+
 1. `npm install`
 2. `npm start`
 
